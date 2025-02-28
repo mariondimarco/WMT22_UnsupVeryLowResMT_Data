@@ -15,9 +15,10 @@
 
 **Monolingual Lower Sorbian Data**
 
-* Monolingual Lower Sorbian data (2021): mono.dsb.gz
+* Monolingual Lower Sorbian data (2021): [mono.dsb.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/mono.dsb.gz)
 
-* Monolingual Lower Sorbian data (2022): 66408_DSB_monolingual.txt.gz, 8815_DSB_wikipedia_2021.txt.gz
+* Monolingual Lower Sorbian data (2022): [66408_DSB_monolingual.txt.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/66408_DSB_monolingual.txt.gz),
+                                         [8815_DSB_wikipedia_2021.txt.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/8815_DSB_wikipedia_2021.txt.gz)
 
 ** **
 
