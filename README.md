@@ -4,10 +4,12 @@
 
 **Parallel Lower Sorbian ↔ German Data**
 
-* Parallel Lower Sorbian data (2022): [40194_train_dsb_de.de.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/40194_train_dsb_de.de.gz), 40194_train_dsb_de.dsb.gz
+* Parallel Lower Sorbian data (2022): [40194_train_dsb_de.de.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/40194_train_dsb_de.de.gz),
+                                      [40194_train_dsb_de.dsb.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/40194_train_dsb_de.dsb.gz)
 
-* Development and development test data (2021): devtest.dsb-de.tgz
-* Development and development test data (2022): valid.de.gz, valid.dsb.gz 
+* Development and development test data (2021): [devtest.dsb-de.tgz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/devtest.dsb-de.tgz)
+* Development and development test data (2022): [valid.de.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/valid.de.gz),
+                                                [valid.dsb.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/valid.dsb.gz)
 
 ** **
 
