@@ -37,16 +37,16 @@
 
 **Monolingual Upper Sorbian Data**
 
-* Monolingual data (2020): sorbian_institute_monolingual.hsb.gz\
+* Monolingual data (2020): [sorbian_institute_monolingual.hsb.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/sorbian_institute_monolingual.hsb.gz)\
 Upper Sorbian monolingual data provided by the Sorbian Institute (contains a high-quality corpus and some medium quality data which are mixed together).
 
-* Monolingual data (2020): witaj_monolingual.hsb.gz\
+* Monolingual data (2020): [witaj_monolingual.hsb.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/witaj_monolingual.hsb.gz)\
     Upper Sorbian monolingual data provided by the Witaj Sprachzentrum (high quality).
 
-* Monolingual data (2020): web_monolingual.hsb.gz\
+* Monolingual data (2020): [web_monolingual.hsb.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/web_monolingual.hsb.gz)\
     Upper Sorbian monolingual data scraped from the web by CIS, LMU (thanks to Alina Fastowski). Use with caution, probably noisy, might erroneously contain some data from related languages.
 
-* Monolingual data (2022): HSB_monolingual.txt.gz
+* Monolingual data (2022): [HSB_monolingual.txt.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/HSB_monolingual.txt.gz)
 
 ** **
 
