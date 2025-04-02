@@ -8,7 +8,7 @@
                                       [40194_train_dsb_de.dsb.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/40194_train_dsb_de.dsb.gz)
 
 * Development and development test data (2021): [devtest.dsb-de.tgz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/devtest.dsb-de.tgz)
-* Development and development test data (2022): [valid.de.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/valid.de.gz),
+* Development data (2022): [valid.de.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/valid.de.gz),
                                                 [valid.dsb.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/valid.dsb.gz)
 
 ** **
@@ -31,7 +31,7 @@
 * Parallel data (2022): [HSB-DE_train.tsv.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/HSB-DE_train.tsv.gz)
 
 * Dev and test data (2020): [devtest.tar.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/devtest.tar.gz)
-* Dev and test data (2022): [HSB-DE_dev.tsv.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/HSB-DE_dev.tsv.gz)
+* Dev data (2022): [HSB-DE_dev.tsv.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/HSB-DE_dev.tsv.gz)
 
 ** **
 
