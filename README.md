@@ -55,4 +55,4 @@ Upper Sorbian monolingual data provided by the Sorbian Institute (contains a hig
 * Parallel data (2022): [train_dsb_hsb_62564.dsb.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/train_dsb_hsb_62564.dsb.gz),
                         [train_dsb_hsb_62564.hsb.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/train_dsb_hsb_62564.hsb.gz)
 
-* Dev and test data (2022): [devtest_dsb_hsb_2022.tar.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/devtest_dsb_hsb_2022.tar.gz)
+* Dev and dev test data (2022): [devtest_dsb_hsb_2022.tar.gz](https://github.com/mariondimarco/WMT22_UnsupVeryLowResMT_Data/raw/refs/heads/main/devtest_dsb_hsb_2022.tar.gz)
